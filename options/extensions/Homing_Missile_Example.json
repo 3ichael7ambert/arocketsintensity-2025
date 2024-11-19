@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "Homing_Missile_Example",
+    "path": "extensions/Homing_Missile_Example/Homing_Missile_Example.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

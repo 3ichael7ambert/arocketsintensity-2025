@@ -1,0 +1,9 @@
+{
+  "extensionId": {
+    "name": "Basic_Fake_3D",
+    "path": "extensions/Basic_Fake_3D/Basic_Fake_3D.yy"
+  },
+  "resourceVersion": "1.0",
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null
+}

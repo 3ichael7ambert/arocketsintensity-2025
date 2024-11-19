@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/567cc2bc-ce26-4e27-9017-2fd16a687a43/edit",
+  "option_operagx_game_name": "A Rocket's Intensity",
+  "option_operagx_guid": "567cc2bc-ce26-4e27-9017-2fd16a687a43",
+  "option_operagx_internalShareUrl": "https://gx.games/games/xqzuca/a-rocket-s-intensity/tracks/f6340acb-7ab5-41a0-a819-e37066f085ba/",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "0.0.0.3",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "18aed19c-11f7-49ee-9972-3c49e1f04cf7",
+  "option_operagx_team_name": "DeadSexyMikey studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.2",
+}
