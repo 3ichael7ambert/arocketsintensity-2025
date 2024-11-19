@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+*.yy linguist-detectable=true
+*.gml linguist-detectable=true
+*.yyp linguist-detectable=true
+*.yy linguist-language=Game Maker Language
+*.gml linguist-language=Game Maker Language
+*.yyp linguist-language=Game Maker Language
