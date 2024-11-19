@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cloud_surface_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cloud_surface_save",
+  "parent":{
+    "name":"Cloud",
+    "path":"folders/Scripts/Cloud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrSave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrSave",
+  "parent":{
+    "name":"Effect",
+    "path":"folders/Scripts/Effect.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

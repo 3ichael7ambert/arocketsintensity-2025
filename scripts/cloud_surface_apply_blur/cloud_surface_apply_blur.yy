@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cloud_surface_apply_blur",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cloud_surface_apply_blur",
+  "parent":{
+    "name":"Cloud",
+    "path":"folders/Scripts/Cloud.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
