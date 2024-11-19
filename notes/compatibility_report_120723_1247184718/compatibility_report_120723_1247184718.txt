@@ -1,0 +1,49 @@
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/keyboard_init/keyboard_init.gml
+Converted description /// @description keyboard_init(left,right,up,down,a1,a2,a3,a4)/// @param left
+/// @param right
+/// @param up
+/// @param down
+/// @param a1
+/// @param a2
+/// @param a3
+/// @param a4
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/scr_smoothcam/scr_smoothcam.gml
+Converted builtin - line 7: view_object = obj_camera -> __view_set( e__VW.Object, 0, obj_camera )
+Converted description /// @description scr_smoothcam(target)/// @param target
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/sPlayer_init/sPlayer_init.gml
+Converted description /// @description sPlayer_init(speed, maxspeed);/// @param speed
+/// @param  maxspeed
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/sPlayer_particles/sPlayer_particles.gml
+Converted description /// @description inicialize particle system
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/sPlayer_carcontrol/sPlayer_carcontrol.gml
+Converted description /// @description sPlayer_carcontrol();
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/sPlayer_partice_step/sPlayer_partice_step.gml
+Converted description /// @description sPlayer_partice_step();
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/scripts/sPlayer_draw_neon/sPlayer_draw_neon.gml
+Converted description /// @description sPlayer_draw_neon(color);/// @param color
+
+GameMaker Studio 1 font texture has been backed up at /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/fonts/fnt_debug/fnt_debug.gms1.png
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/objects/obj_car/Create_0.gml
+Converted description /// @description Init player
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/objects/obj_car/Step_0.gml
+Converted description /// @description Control player
+
+Converting GML script: /tmp/GameMakerStudio2/GMS2TEMP/com.druidcz.driftcar_4e5a1d1f/mvc/conv/1474473009_Drift_car_ebabe13f/mvc/objects/obj_car/Draw_0.gml
+Converted description /// @description Draw particles
+
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

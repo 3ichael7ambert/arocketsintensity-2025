@@ -1,0 +1,64 @@
+Converting GML script: ${project_dir}\scripts\menu_init_default\menu_init_default.gml
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_init_default\menu_init_default.gml - 5: Got ';' (;) expected 'id'
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_init_default\menu_init_default.gml - 6: unexpected syntax error
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_init_default\menu_init_default.gml - 6: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\menu_init_default\menu_init_default.gml
+
+Converting GML script: ${project_dir}\scripts\menu_init\menu_init.gml
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_init\menu_init.gml - 5: Got ';' (;) expected 'id'
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_init\menu_init.gml - 6: unexpected syntax error
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_init\menu_init.gml - 6: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\menu_init\menu_init.gml
+
+Converting GML script: ${project_dir}\scripts\keyboard_init\keyboard_init.gml
+Converted description /// @description keyboard_init(left,right,up,down,a1,a2,a3,a4)/// @param left
+/// @param right
+/// @param up
+/// @param down
+/// @param a1
+/// @param a2
+/// @param a3
+/// @param a4
+
+Converting GML script: ${project_dir}\scripts\menu_control\menu_control.gml
+Converted description /// @description menu_control();
+
+Converting GML script: ${project_dir}\scripts\add_menu_action\add_menu_action.gml
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\add_menu_action\add_menu_action.gml - 2: Got '[' ([) expected 'id'
+Too many errors - GML not processed : ${project_dir}\scripts\add_menu_action\add_menu_action.gml
+
+Converting GML script: ${project_dir}\scripts\menu_use\menu_use.gml
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_use\menu_use.gml - 3: Got '[' ([) expected '('
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_use\menu_use.gml - 3: unknown function atribute item
+ERROR: C:\Users\Owner\AppData\Local\GameMakerStudio2\GMS2TEMP\com.druidcz.carousel_1aab50d4\mvc\scripts\menu_use\menu_use.gml - 5: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\menu_use\menu_use.gml
+
+Converting GML script: ${project_dir}\scripts\angle_diff\angle_diff.gml
+Converted description /// @description angle_diff(angle1,angle2)/// @param angle1
+/// @param angle2
+
+Converting GML script: ${project_dir}\scripts\draw_menu\draw_menu.gml
+Converted description /// @description draw_menu
+
+Converting GML script: ${project_dir}\scripts\add_menu_text\add_menu_text.gml
+Converted description /// @description add_menu_text(number,text);/// @param number
+/// @param text
+
+Converting GML script: ${project_dir}\scripts\draw_menu_text\draw_menu_text.gml
+Converted description /// @description draw_menu_text(x,y,colour,alpha,font);/// @param x
+/// @param y
+/// @param colour
+/// @param alpha
+/// @param font
+
+Converting GML script: ${project_dir}\scripts\draw_menu_text_default\draw_menu_text_default.gml
+Converted description /// @description draw_menu_text_default(colour,font);/// @param colour
+/// @param font
+
+!!! Font fnt_joystick uses a font (Joystix Monospace) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_joystick\fnt_joystick.gms1.png
+Converting GML script: ${project_dir}\objects\obj_menu\Create_0.gml
+Converted description /// @description menu init
+
+Converting GML script: ${project_dir}\objects\obj_menu\Draw_0.gml
+Converted description /// @description draw_menu

@@ -1,0 +1,20 @@
+Font font12 has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font12\font12.gms1.png
+Converting GML script: ${project_dir}\objects\oPlayer\Step_0.gml
+Converted string - line 1: 'W' -> "W"
+Converted string - line 4: 'A' -> "A"
+Converted string - line 8: 'D' -> "D"
+Converted string - line 12: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\oPlayer\KeyPress_32.gml
+Converted description /// @description fire homing missile
+
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_wrap.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,138 @@
+Converting GML script: ${project_dir}\objects\objPerspective\Create_0.gml
+Converted description /// @description  SET UP DEBUG DISPLAY FOR FPS REAL
+
+Converting GML script: ${project_dir}\objects\objPerspective\Alarm_0.gml
+Converted description /// @description  UPDATE FPS REAL EVERY 30 STEPS
+
+Converting GML script: ${project_dir}\objects\objPerspective\Step_0.gml
+Converted description /// @description  MOVE WITH THE MOUSE
+
+Converting GML script: ${project_dir}\objects\objPerspective\Draw_64.gml
+Converted description /// @description  DRAW THE INFO BOX FOR THE DEMO
+
+Converting GML script: ${project_dir}\objects\objPerspective\KeyPress_32.gml
+Converted description /// @description  CREATE A NEW CUBE
+
+Converting GML script: ${project_dir}\objects\objPerspective\KeyPress_13.gml
+Converted description /// @description  CYCLE THROUGH ROOMS
+
+Converting GML script: ${project_dir}\objects\objCube\Create_0.gml
+Converted description /// @description  SET UP VARIABLES
+
+Converting GML script: ${project_dir}\objects\objCube\Step_0.gml
+Converted description /// @description  CALCULATE DEPTH AND STUFF
+
+Converting GML script: ${project_dir}\objects\objCube\Draw_73.gml
+Converted description /// @description  DRAW THE TOP OF THE CUBE IN DRAW END SO IT WON'T BE COVERED
+
+Converting GML script: ${project_dir}\objects\objCube\Draw_0.gml
+Converted description /// @description  DRAW THE BOTTOM AND THE SIDES IN THE DRAW EVENT
+
+Converting GML script: ${project_dir}\objects\objCaveWall\Create_0.gml
+Converted description /// @description  SET UP VARIABLES
+
+Converting GML script: ${project_dir}\objects\objCaveWall\Step_0.gml
+Converted description /// @description  CALCULATE DEPTH AND STUFF
+
+Converting GML script: ${project_dir}\objects\objCaveWall\Draw_73.gml
+Converted description /// @description  DRAW THE TOP OF THE CUBE IN DRAW END SO IT WON'T BE COVERED
+
+Converting GML script: ${project_dir}\objects\objCaveWall\Draw_0.gml
+Converted description /// @description  DRAW THE BOTTOM AND THE SIDES IN THE DRAW EVENT
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\Create_0.gml
+Converted description /// @description  SET UP DEBUG DISPLAY FOR FPS REAL
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\Alarm_0.gml
+Converted description /// @description  UPDATE FPS REAL EVERY 30 STEPS
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\Step_1.gml
+Converted description /// @description  IF ALIGNED TO 32 BY 32 GRID STOP MOVING
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\Step_0.gml
+Converted description /// @description  MOVEMENT
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\Draw_64.gml
+Converted description /// @description  DRAW THE INFO BOX FOR THE DEMO
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\Draw_0.gml
+Converted description /// @description  DRAW PLAYER SPRITE
+
+Converting GML script: ${project_dir}\objects\objMazePlayer\KeyPress_13.gml
+Converted description /// @description  CYCLE THROUGH ROOMS
+
+Converting GML script: ${project_dir}\objects\objHouse\Create_0.gml
+Converted description /// @description  SET UP VARIABLES
+
+Converting GML script: ${project_dir}\objects\objHouse\Step_0.gml
+Converted description /// @description  CALCULATE DEPTH AND STUFF
+
+Converting GML script: ${project_dir}\objects\objHouse\Draw_73.gml
+Converted description /// @description  DRAW THE TOP OF THE CUBE IN DRAW END SO IT WON'T BE COVERED
+
+Converting GML script: ${project_dir}\objects\objHouse\Draw_0.gml
+Converted description /// @description  DRAW THE BOTTOM AND THE SIDES IN THE DRAW EVENT
+
+Converting GML script: ${project_dir}\objects\objTree\Create_0.gml
+Converted description /// @description  SET UP VARIABLES
+
+Converting GML script: ${project_dir}\objects\objTree\Step_0.gml
+Converted description /// @description  CALCULATE DEPTH AND SCALE
+
+Converting GML script: ${project_dir}\objects\objTree\Draw_0.gml
+Converted description /// @description  DRAW THE TREE SCALED TO THE RIGHT DEGREE
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\Create_0.gml
+Converted description /// @description  SET UP DEBUG DISPLAY FOR FPS REAL
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\Alarm_0.gml
+Converted description /// @description  UPDATE FPS REAL EVERY 30 STEPS
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\Step_1.gml
+Converted description /// @description  IF ALIGNED TO 32 BY 32 GRID STOP MOVING
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\Step_0.gml
+Converted description /// @description  MOVEMENT
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\Draw_64.gml
+Converted description /// @description  DRAW THE INFO BOX FOR THE DEMO
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\Draw_0.gml
+Converted description /// @description  DRAW PLAYER SPRITE
+
+Converting GML script: ${project_dir}\objects\objTownPlayer\KeyPress_13.gml
+Converted description /// @description  CYCLE THROUGH ROOMS
+
+Converting GML script: ${project_dir}\objects\objStressTest\Create_0.gml
+Converted description /// @description  SET UP DEBUG DISPLAY FOR FPS REAL
+
+Converting GML script: ${project_dir}\objects\objStressTest\Alarm_0.gml
+Converted description /// @description  UPDATE FPS REAL EVERY 30 STEPS
+
+Converting GML script: ${project_dir}\objects\objStressTest\Step_0.gml
+Converted description /// @description  MOVE WITH THE MOUSE
+
+Converting GML script: ${project_dir}\objects\objStressTest\Keyboard_32.gml
+Converted description /// @description  CREATE NEW CUBES
+
+Converting GML script: ${project_dir}\objects\objStressTest\Draw_64.gml
+Converted description /// @description  DRAW THE INFO BOX FOR THE DEMO
+
+Converting GML script: ${project_dir}\objects\objStressTest\KeyPress_13.gml
+Converted description /// @description  CYCLE THROUGH ROOMS
+
+Converting GML script: ${project_dir}\objects\objCube2\Create_0.gml
+Converted description /// @description  SET UP VARIABLES
+
+Converting GML script: ${project_dir}\objects\objCube2\Step_0.gml
+Converted description /// @description  CALCULATE DEPTH AND STUFF
+
+Converting GML script: ${project_dir}\objects\objCube2\Draw_73.gml
+Converted description /// @description  DRAW THE TOP OF THE CUBE IN DRAW END SO IT WON'T BE COVERED
+
+Converting GML script: ${project_dir}\objects\objCube2\Draw_0.gml
+Converted description /// @description  DRAW THE BOTTOM AND THE SIDES IN THE DRAW EVENT
+
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
