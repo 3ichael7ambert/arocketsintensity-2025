@@ -1,7 +1,7 @@
 /// @description Draw layer
 
 
-if level=16 {
+if level==16 {
 		
 	//draw_background_tiled_ext(image, x, y, 1, 1, colour, alpha);
 //Create Surface

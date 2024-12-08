@@ -5,12 +5,7 @@
   "macroPageTiles":{
     "SerialiseHeight":2,
     "SerialiseWidth":2,
-    "TileSerialiseData":[
-      4,
-      5,
-      3,
-      0,
-    ],
+    "TileSerialiseData":[4,5,3,0,],
   },
   "name":"tile_City",
   "out_columns":2,

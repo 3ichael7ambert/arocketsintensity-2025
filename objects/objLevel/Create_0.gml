@@ -503,7 +503,7 @@ halftone_initialize(spr_noise, spr_paper);
 //Set ink colors slightly faded
 halftone_set_cmyk_colors(#22FFFF, #FF22FF, #FFFF22, #222222);
 
-instance_create(x,y,obj_comicShader)
+//instance_create(x,y,obj_comicShader)
 
 //We'll draw this manually
 

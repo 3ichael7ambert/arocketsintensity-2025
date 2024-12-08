@@ -44,7 +44,7 @@ var _moveDir = direction;
 if screw>7 then screw=0;
 
 //GMLive
-if (live_call()) return live_result;
+//if (live_call()) return live_result;
 
 
 

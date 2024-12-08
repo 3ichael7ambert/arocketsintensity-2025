@@ -1,5 +1,5 @@
 //GMLive
-if (live_call()) return live_result;
+//if (live_call()) return live_result;
 
 //initiate HUD
 display_set_gui_size(1920,1080);

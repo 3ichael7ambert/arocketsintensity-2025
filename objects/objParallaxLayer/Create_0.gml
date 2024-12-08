@@ -19,8 +19,11 @@ bgColor4=make_colour_rgb(random(255), random(255), random(255));
 bgColor5=make_colour_rgb(random(255), random(255), random(255));
 
 if level=16 {
-	var panel1 = instance_create(0,0,objPanel2);
-	var panel2 = instance_create(0,0,objPanel3);
+	//var panel1 = instance_create(0,0,objPanel2);
+	//var panel2 = instance_create(0,0,objPanel3);
+	
+	var panelX = instance_create(0,0,objPanelX);
+	
 	//panel3 = instance_create(0,0,objPanel247);
 	//panel4 = instance_create(0,0,objPanel247);
 	//panel5 = instance_create(0,0,objPanel247);*/
