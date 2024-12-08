@@ -21,7 +21,7 @@ gpu_set_colorwriteenable(1,1,1,0);
 draw_sprite_tiled(backCloudLayer1,0,x,y);
 draw_sprite_tiled(backCloudLayer2,0,x,y);
 draw_sprite_tiled(backCloudLayer3,0,x,y);
-gpu_set_colorwriteenable(1,1,1,0);
+gpu_set_colorwriteenable(1,1,1,1);
 
 //reset target
 surface_reset_target();
@@ -46,7 +46,7 @@ draw_sprite_tiled(backStars2,0,x,y);
 draw_sprite_tiled(backStars4,0,x,y);
 draw_sprite_tiled(backStars5,0,x,y);
 draw_sprite_tiled(backStars3,0,x,y);
-gpu_set_colorwriteenable(1,1,1,0);
+gpu_set_colorwriteenable(1,1,1,1);
 
 //reset target
 surface_reset_target();
@@ -96,7 +96,7 @@ draw_sprite_tiled(sprAerialView4,0,x,y);
 draw_sprite_tiled(sprAerialView5,0,x,y);
 draw_sprite_tiled(sprAerialView6,0,x,y);
 
-gpu_set_colorwriteenable(1,1,1,0);
+gpu_set_colorwriteenable(1,1,1,1);
 
 //reset target
 surface_reset_target();
@@ -124,7 +124,7 @@ draw_sprite_tiled(sprAerialView4,0,x,y);
 draw_sprite_tiled(sprAerialView5,0,x,y);
 draw_sprite_tiled(sprAerialView6,0,x,y);
 
-gpu_set_colorwriteenable(1,1,1,0);
+gpu_set_colorwriteenable(1,1,1,1);
 //reset target
 surface_reset_target();
 //draw surface
